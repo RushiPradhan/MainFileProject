@@ -1,11 +1,15 @@
 Starters
 Chicken tikka
+Paneer tikka
 
 Maincourse
 Butter chicken
+Dal fry
 
 Roti
 Tandoori roti
+Butter roti
 
 Dessert
 Gaajar halwa
+Gulab jamun
